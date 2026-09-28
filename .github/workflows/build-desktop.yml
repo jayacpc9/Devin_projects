@@ -17,7 +17,7 @@ jobs:
           - os: macos-14
             label: macOS (Apple Silicon)
             artifact: Carrom-macOS-arm64
-          - os: macos-13
+          - os: macos-15-intel
             label: macOS (Intel)
             artifact: Carrom-macOS-x86_64
           - os: windows-latest
